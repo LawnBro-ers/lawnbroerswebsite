@@ -1,0 +1,19 @@
+body {
+  background-color: cyan;
+  text-align: center;
+  color: #000010;
+  margin: 0px;
+}
+
+a {
+  color: darkblue;
+}
+
+a:hover {
+ color: blue;
+}
+
+.lawnmower {
+  height: auto;
+  margin: 0px
+}
